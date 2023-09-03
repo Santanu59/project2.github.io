@@ -11,6 +11,6 @@ manubtn.onclick = function(){
     }
     else{
         sidenav.style.right = "-250px";
-        // manu.src = "image/manu.png";
+        manu.src = "image/manu.png";
     }
 }
